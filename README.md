@@ -1,6 +1,10 @@
 # Association-Rule-Mining
 This project involved developing a Python program to convert kosarak.dat itemset data into a sparse ARFF format, subsequently loading the generated file into Weka for association rule mining using the FP-Growth algorithm, and analyzing the performance of these conversion and mining steps.
 
+# Problem Statement
+![image](https://github.com/user-attachments/assets/53234500-64e2-42d9-888b-1fdbcc0e9686)
+
+
 # Solution Summary
 - Focused on preprocessing and analysis of the **kosarak.dat** large itemset dataset for **association rule mining**.
 
